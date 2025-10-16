@@ -50,7 +50,7 @@ Por defecto servirá en:
   - public_html/tp-final/index.html
   - public_html/tp-final/assets/...
 
-URL final: https://www.promovil.com.ar/tp-final/
+URL final: https://www.tudominio.com/tp-final/
 
 ## Estructura del proyecto
 - src/
@@ -88,12 +88,6 @@ URL final: https://www.promovil.com.ar/tp-final/
 - Detalle con nombre, tipos, habilidades, peso, altura e imagen.
 - Favoritos (Redux Toolkit + localStorage) y sección de favoritos en Home.
 - Diseño responsive (grid + CSS).
-
-## Nombre del repositorio
-Debe llamarse exactamente:
-```
-tp-final-react-[vicente-santangelo]
-```
 
 ## Licencia
 MIT
