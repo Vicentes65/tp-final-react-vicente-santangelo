@@ -1,0 +1,5 @@
+.nav { position: sticky; top: 0; background: #0ea5e9; color: white; z-index: 10; }
+.nav-inner { max-width: 1200px; margin: 0 auto; padding: .75rem 1rem; display: flex; align-items: center; justify-content: space-between; }
+.brand { font-weight: 700; }
+.links a { color: white; margin-left: 1rem; text-decoration: none; font-weight: 600; opacity: .9; }
+.links a.active { text-decoration: underline; opacity: 1; }
